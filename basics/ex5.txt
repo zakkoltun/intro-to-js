@@ -1,0 +1,1 @@
+When using addition (+), JavaScript uses implicit type coercion to make the number 10 into a string, then concatenates '5' and '10'. 
