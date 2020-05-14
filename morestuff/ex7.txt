@@ -1,0 +1,1 @@
+Exception handling is for times when you need to do an operation that may fail. You can capture the exception and take a different action if it occurs, while still operating normally for other cases. 
